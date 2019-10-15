@@ -28,7 +28,8 @@
   "dependencies": {
     "async": "0.2.x",
     "colors": "*",
-    "underscore": "1.5.x"
+    "underscore": "1.5.x",
+    "webrtc-adapter": "^7.3.0"
   },
   "scripts": {
     "lint": "grunt lint",
